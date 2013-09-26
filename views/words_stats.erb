@@ -1,0 +1,22 @@
+
+<section>
+  <div class="span7">
+    <form id="text_form" action="words_count" method="post"> 
+      <h2>Type Your Text here</h2>
+      <textarea id="text" name='text' class='text' rows="10">hello hello hello my my name</textarea>
+      <h4 class="pull-right limit-container"> Limit: <input id='limit' name="limit"/> </h4>
+      <input class="btn btn-large btn-success" type="submit" value="Calculate Words" /> 
+    </form>
+  </div>
+  <div class="span2">
+    <div class="slider_container">
+      <div id="limit-slider" ></div>
+    </div>
+  </div>
+  <div class="span3">
+      <h2>Words Stats</h2>
+      <ul id="words_stat" class="tags inline">
+        submit text to calculate..
+      </ul>
+  </div>
+</section>

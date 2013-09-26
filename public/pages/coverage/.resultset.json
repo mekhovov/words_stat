@@ -1,0 +1,39 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/Users/alex/work/my_projects/words_stat/app/words.rb": [
+        1,
+        null,
+        1,
+        1,
+        null,
+        1,
+        10,
+        null,
+        9,
+        9,
+        9,
+        null,
+        null,
+        1,
+        5,
+        null,
+        null,
+        1,
+        5,
+        null,
+        4,
+        21,
+        null,
+        16,
+        null,
+        null,
+        1,
+        1,
+        null,
+        null
+      ]
+    },
+    "timestamp": 1380218595
+  }
+}
