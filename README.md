@@ -13,3 +13,6 @@ returns
   "is" : 1
 }
  
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/mekhovov/words_stat/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
