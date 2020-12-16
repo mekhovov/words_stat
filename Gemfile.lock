@@ -3,8 +3,8 @@ GEM
   specs:
     diff-lcs (1.2.4)
     multi_json (1.8.0)
-    rack (1.5.2)
-    rack-protection (1.5.0)
+    rack (1.6.13)
+    rack-protection (1.5.5)
       rack
     rspec (2.14.1)
       rspec-core (~> 2.14.0)
