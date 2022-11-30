@@ -1,5 +1,5 @@
 source 'http://rubygems.org'
 
-gem 'sinatra', '1.3.3'
+gem 'sinatra', '2.2.3'
 gem 'rspec'
 gem 'simplecov'
